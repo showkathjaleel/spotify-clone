@@ -1,0 +1,281 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+
+
+
+
+
+
+
+*{
+    padding: 0px;
+    margin: 0px; 
+}
+  
+
+
+.box1{
+    width:100%;
+    height:79px;
+    background:black;  
+    align-items: center;
+}.box2{
+    
+    width:100%;
+    height:600px;
+    background:url(https://www.scdn.co/i/free/bubbles-dktp.svg) center -138px / 100% 1068px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+    position:relative;
+
+    
+
+}
+
+.image-phone{
+    height: 510px;
+    width: 280;
+    margin-left: 200px;
+    margin-top: 90px;
+}
+.spotifybtn{
+    width:188px;
+    height: 46px;
+    border-radius: 30px;
+    background-color: white;
+    position: absolute;
+    left:633px;
+    top: 365px;
+    border: none;
+}.spotifybtn:hover{
+    transform:scale(1.2);
+
+}
+
+.logo{
+    width:50%;
+    float:left;
+   
+}.logotext{
+    color:white;
+    font-size: 30px;
+    padding-left:200px;
+    padding-top: 55px;
+    text-decoration:none;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.login{
+    width:50%;
+    float:left;
+}.logintext{
+    color:white;
+    text-decoration: none;
+    cursor: pointer;
+
+
+}td{
+    padding: 20px;
+}.logintext:hover{
+    color:lightgreen;
+
+}
+
+.box2text{
+     color:white;
+    font-weight: 900;
+    font-size: 60px;
+    padding-left:640px;
+   margin-top: -450px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}.box3{
+    width:100%;
+    height:190px;
+    background:white;
+   
+}.box3text{
+    width:100%;
+    height:100px;
+    
+    color:black;
+    padding-left:650px;
+    padding-top:80px;
+    font-size:26px;
+    font-weight:bold;
+    
+
+}
+
+
+
+
+
+
+
+.box4{
+    width:16%;
+    height:400px;
+    padding-left: 240px;
+    background: white;
+    float:left;
+    
+}.box5{
+    width:16%;
+    height:400px;
+    padding-left: 20px;
+    background: white;
+    float:left;
+   
+}.box6{
+
+    width:16%;
+    height:400px;
+    padding-left: 20px;
+    background:white;
+    float:left;
+    
+}.box7{
+    width:16%;
+    height:400px;
+    padding-left: 20px;
+    background:white;
+   
+    float:left;
+    
+}.blank{
+    width:20%;
+    height:400px;
+    background:white;
+}
+
+
+
+.textrow2{
+    font-size: 20px;
+    padding-top: 45px;  
+    color: black;
+    margin-left: -70px;
+   
+    
+}    
+.textrow3{
+    font-size:15px;
+    padding-top: 45px;
+    margin-left:-76px ;
+}
+.box8{
+    width:100%;
+    height:490px;
+    background:linear-gradient(-155deg, rgb(108, 14, 224) 55%, rgb(240, 55, 166) 115%) rgb(108, 14, 224);;
+}.box8text{
+    color:white;
+    font-size: 40px;
+    padding-left: 400px;
+    padding-top: 120px;
+  
+}.box9{
+    width:100%;
+    height:580px;
+    
+    background: white;
+}
+.box9text{
+    font-size: 20px;
+    padding-left: 80px;
+}.box10{
+    width:100%;
+    height:450px;
+    
+    background:url(https://www.scdn.co/i/free/lets-play.svg) center center / 100% no-repeat, linear-gradient(-155deg, rgb(108, 14, 224) 55%, rgb(240, 55, 166) 115%) rgb(108, 14, 224);
+    position:relative;
+
+}.box10text{
+    color:white;
+    font-weight: 900;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 190px; 
+    font-family:Arial, Helvetica, sans-serif;
+
+
+
+}
+.spotifybtn2{
+        width:189px;
+        height: 46px;
+        border-radius: 30px;
+        background-color: white;
+        position: absolute;
+        left:664px;
+        top: 275px;
+        border: none;
+}.spotifybtn2:hover{
+    transform: scale(1.1);
+}
+
+
+
+.box91{
+    width:100%;
+    height:180px;
+
+}.box92{
+    width:100%;
+    height:100px;
+}
+
+
+
+
+.box11{
+    width:100%;
+    height:20px;
+    background:black;
+    
+}
+.box11text{
+    padding-left:100px;
+    padding-top:100px;
+    color: white;
+    
+
+}.footer{
+    width:100%;
+   
+    padding:100px 15% ;
+    background:black;
+    color:white;
+
+    display:flex;
+
+}p{
+    padding-left: 100px;
+    padding-top: 20px;
+    font-size: 14px;
+}.footerheading{
+    opacity:0.4;
+}
+
+.box15text{
+    padding-top: 0px;
+    color:white;
+    font-size:30px;
+}
+.box12 p:hover{
+    color:lightgreen;
+}.box13 p:hover{
+    color:lightgreen;
+}.box14 p:hover{
+    color:lightgreen;
+}
+
+
+
+
+
+
+   
